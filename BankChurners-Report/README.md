@@ -6,4 +6,5 @@ This Power BI report provides an in-depth analysis of customer churn patterns fo
 * **Education Level**: Analysis of educational background trends.
 * **Card Category**: Evaluation of the types of cards used by different customer segments.
 * **Income Category**: Correlation between income levels and churn behavior. <br>
+
 The report enables data-driven decision-making by highlighting significant patterns and insights into customer retention and attrition.
